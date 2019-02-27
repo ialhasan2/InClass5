@@ -1,2 +1,2 @@
 # InClass5 SQL CREATE TABLE
-Chech out Create dbo.Employees.sql and 
+Check out Create dbo.Departments.sql and Create dbo.Employees.sql and 
